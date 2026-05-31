@@ -23,6 +23,9 @@ https://colab.research.google.com/drive/1yhqZwLSoiqInDXRewNk85ZIG-K6SPyEa?usp=sh
 5. Battery Electric Vehicles (BEVs) show higher adoption rates compared to Plug-in Hybrid Electric Vehicles (PHEVs).
 6. Model year 2023 represents the most widely used EVs in Washington.
 
+## 📊 Data Source
+https://catalog.data.gov/dataset/electric-vehicle-population-data?from_hint=eyJzb3J0IjoicG9wdWxhcml0eSJ9
+
 ## 🗣️Language
 Notebook: Bahasa Indonesia 
 
